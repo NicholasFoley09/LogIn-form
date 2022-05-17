@@ -1,0 +1,33 @@
+
+body{
+    text-align: center;
+    font-family: ;
+    font-weight: ;
+    background-image: linear-gradient(violet, white, pink);
+}
+
+div{
+    margin: 25px;
+    padding: 25px;
+    text-align: center;
+    background-color:;
+    background-image: linear-gradient(pink, skyblue, violet);
+    display: inline-block;
+    width: 250px;
+    height: 220px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    box-shadow: 10px 5px 10px ;
+}
+
+input{
+    border-radius: 10px;
+    font-family: inherit;
+    font-size: medium;
+}
+button{
+    border-radius: 10px;
+    font-family: inherit;
+    font-size: medium;
+}
+
